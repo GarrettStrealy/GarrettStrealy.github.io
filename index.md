@@ -24,8 +24,6 @@
 		<div id="__next"><div>
 			<div class="jsx-942610349 main">
 				<div class="jsx-942610349 logo">
-					<a class="jsx-942610349" href="/">garrettstrealy.com</a> 
-					<a href="https://github.com/GarrettStrealy" target="_blank" class="jsx-942610349"></a>
 				</div>
 				<div class="jsx-2059784749 home">
 					<div class="jsx-2059784749 main">
