@@ -27,10 +27,11 @@
 				</div>
 				<div class="jsx-2059784749 home">
 					<div class="jsx-2059784749 main">
-						<h1 class="jsx-2059784749">Garrett Strealy</h1>
+						<h1>Garrett Strealy</h1>
 							<nav class="jsx-2059784749">
 								<a target="_blank" href="https://twitter.com/garrett_strealy" class="jsx-2059784749">Twitter</a>
 								<a class="jsx-2059784749" href="https://github.com/GarrettStrealy">Projects</a>
+								<a class="jsx-2059784749" href="https://linkedin.com/in/garrett-strealy/">LinkedIn</a>
 								<a class="jsx-2059784749" href="mailto: gstrealy@gmail.com">Email</a>
 							</nav>
 					</div>
