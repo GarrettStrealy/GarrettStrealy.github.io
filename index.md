@@ -3,7 +3,7 @@
 		<meta charset="utf-8">
 		<title class="jsx-2059784749">Garrett Strealy</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1" class="jsx-3820774761">
-		<link href="/atom" type="application/atom+xml" rel="alternate" title="Bryan Beshore" class="jsx-3820774761">
+		<link href="/atom" type="application/atom+xml" rel="alternate" title="Garrett Strealy" class="jsx-3820774761">
 		<meta name="next-head-count" content="4">
 		<link rel="preload" href="/_next/static/x4LhwlIK2VnpGdjsmZrT1/pages/index.js" as="script">
 		<link rel="preload" href="/_next/static/x4LhwlIK2VnpGdjsmZrT1/pages/_app.js" as="script">
