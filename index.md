@@ -32,7 +32,7 @@
 								<a target="_blank" href="https://twitter.com/strealy_" class="jsx-2059784749">Twitter</a>
 								<a class="jsx-2059784749" href="https://github.com/GarrettStrealy">Projects</a>
 								<a class="jsx-2059784749" href="https://linkedin.com/in/garrett-strealy/">LinkedIn</a>
-								<a class="jsx-2059784749" href="mailto: gstrealy@gmail.com">Email</a>
+								<a class="jsx-2059784749" href="mailto: gstrealy@gmail.com">gstrealy@gmail.com</a>
 							</nav>
 					</div>
 				</div>
