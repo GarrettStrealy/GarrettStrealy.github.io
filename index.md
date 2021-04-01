@@ -15,6 +15,10 @@
 		<style id="__jsx-3820774761">*{margin:0;box-sizing:border-box;}body{font:13px Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,serif;}a{color:#22BAD9;-webkit-tap-highlight-color:rgba(0,0,0,0);}a:hover{color:#fff;background:#22BAD9;-webkit-text-decoration:none;text-decoration:none;}#nprogress{pointer-events:none;}#nprogress .bar{background:#22BAD9;position:fixed;z-index:1031;top:0;left:0;width:100%;height:2px;}#nprogress .peg{display:block;position:absolute;right:0px;width:100px;height:100%;box-shadow:0 0 10px #22BAD9,0 0 5px #22BAD9;opacity:1.0;-webkit-transform:rotate(3deg) translate(0px,-4px);-ms-transform:rotate(3deg) translate(0px,-4px);transform:rotate(3deg) translate(0px,-4px);}</style><style id="__jsx-942610349">.main.jsx-942610349{padding:25px 50px;}.logo.jsx-942610349{padding-bottom:50px;}a.jsx-942610349{-webkit-text-decoration:none;text-decoration:none;}@media (max-width:500px){.main.jsx-942610349{padding:25px 15px;}.logo.jsx-942610349{padding-bottom:20px;}}
 		</style>
 		<style type="text/css" data-styled-jsx=""></style>
+		<!--<link href="/_next/static/x4LhwlIK2VnpGdjsmZrT1/pages/writings.js" rel="prefetch" as="script">
+		<link href="/_next/static/x4LhwlIK2VnpGdjsmZrT1/pages/projects.js" rel="prefetch" as="script">
+		<link href="/_next/static/x4LhwlIK2VnpGdjsmZrT1/pages/message.js" rel="prefetch" as="script">
+		<link href="/_next/static/x4LhwlIK2VnpGdjsmZrT1/pages/newsletter.js" rel="prefetch" as="script">-->
 	</head>
 	<body data-gr-c-s-loaded="true">
 		<div id="__next"><div>
@@ -25,7 +29,7 @@
 					<div class="jsx-2059784749 main">
 						<h1>Garrett Strealy</h1>
 							<nav class="jsx-2059784749">
-								<a target="_blank"https://www.linkedin.com/in/garrett-strealy/" class="jsx-2059784749">LinkedIn</a>
+								<a class="jsx-2059784749" href="https://www.linkedin.com/in/garrett-strealy/" class="jsx-2059784749">LinkedIn</a>
 								<a class="jsx-2059784749" href="https://github.com/GarrettStrealy">Projects</a>
 								<a class="jsx-2059784749" href="mailto: gstrealy@gmail.com">gstrealy@gmail.com</a>
 							</nav>
