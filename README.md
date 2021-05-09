@@ -1,2 +1,1 @@
-# GarrettStrealy.github.io
-Personal Website
+My personal Website
