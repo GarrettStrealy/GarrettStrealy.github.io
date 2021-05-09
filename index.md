@@ -30,7 +30,7 @@
 						<h1>Garrett Strealy</h1>
 							<nav class="jsx-2059784749">
 								<a class="jsx-2059784749" href="https://www.linkedin.com/in/garrett-strealy/" class="jsx-2059784749">LinkedIn</a>
-								<a class="jsx-2059784749" href="https://github.com/GarrettStrealy">Projects</a>
+								<a class="jsx-2059784749" href="https://github.com/GarrettStrealy">GitHub</a>
 								<a class="jsx-2059784749" href="mailto: gstrealy@gmail.com">gstrealy@gmail.com</a>
 							</nav>
 					</div>
